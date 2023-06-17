@@ -10,5 +10,5 @@ cloudstream {
 
     tvTypes = listOf( "TvSeries" , "Movie" , "Anime" , "AsianDrama" )
 
-    iconUrl = "https://www.google.com/s2/favicons?domain=movizland.online&sz=%size%"
+    iconUrl = "https://www.google.com/s2/favicons?domain=moviesland.eu&sz=%size%"
 }
